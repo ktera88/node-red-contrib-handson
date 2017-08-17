@@ -1,0 +1,29 @@
+{
+  "name": "node-red-contrib-handson",
+  "version": "1.0.0",
+  "node-red": {
+    "nodes": {
+      "lower-test-case": "node.js"
+    }
+  },
+  "description": "test flow",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktera88/node-red-contrib-handson.git"
+  },
+  "author": "ktera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktera88/node-red-contrib-handson/issues"
+  },
+  "homepage": "https://github.com/ktera88/node-red-contrib-handson#readme",
+  "keywords": [
+    "node-red"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
